@@ -1,6 +1,6 @@
 # PowerBI Vienna AirBnb ROI Analysis
 
-The dashboard answers what district and property size would provide the best Return Of Investment (ROI). 
+The dashboard answers what district and property size would provide the best Return On Investment (ROI). 
 
 ## Data Sources:
 - [Inside AirBnb] (https://insideairbnb.com/get-the-data/)
